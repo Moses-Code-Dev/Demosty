@@ -47,7 +47,7 @@ Our roadmap includes expanding the portfolio of popular domain open source compa
 Explore a variety of popular domain open source companies, including e-delivery, generative AI, calculators, and more. Each represented by an image card leading to its respective main open company repository.
 
 <p align="center">
-  <a href="https://github.com/username/another-repo">
+  <a href="https://github.com/Djowda/Djowda_Docs">
     <img src="active_E-Delivery.png" alt="E-Delivery img card">
   </a>
   <img src="coming_soon_card.png" alt="Comming Soon img card">
